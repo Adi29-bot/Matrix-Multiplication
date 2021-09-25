@@ -43,7 +43,7 @@ mat2[i][j] = in.nextInt();
  
 }
  
-System.out.println("\n\noutput matrix:-");
+System.out.println("output matrix:-");
 for ( i= 0 ; i < r1 ; i++ )
  
 for ( j= 0 ; j <c2;j++)
